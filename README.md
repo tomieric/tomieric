@@ -1,3 +1,7 @@
+[![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=tomieric)](https://github.com/tomieric)
+
+---
+
 [![tomieric](https://github-readme-stats.vercel.app/api?username=tomieric)](https://github.com/tomieric)
 
 ---
